@@ -52,6 +52,7 @@ body{
 #content{
 	position: absolute;
 	top: 150px;
+	width: 40%;
 }
 #plane{
 	position: fixed;
